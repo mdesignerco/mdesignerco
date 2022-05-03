@@ -1,4 +1,4 @@
-[![N|mdesigner](https://mdesigner.co/wp-content/uploads/2020/05/mdesigner.svg)](https://mdesigner.co/) 
+[![N|mdesigner](https://mdesigner.co/wp-content/uploads/2020/05/mdesigner.svg = 100*40)](https://mdesigner.co/) 
 
 ---
 
