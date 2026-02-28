@@ -1,42 +1,52 @@
-[![N|mdesigner](https://mdesigner.co/wp-content/uploads/2020/05/mdesigner.svg)](https://mdesigner.co/) 
+[![mdesigner](https://mdesigner.co/wp-content/uploads/2020/05/mdesigner.svg)](https://mdesigner.co/)
 
 ---
 
 ### Hi there 👋
-I'm **J Hernández** from Colombia. 
+
+I'm **J Hernández** from Colombia, Medellín.
+
+Full-stack oriented **Web Developer**, **Graphic Designer** and **Technical SEO Specialist** with 15+ years building digital experiences — from brand identity to high-performance websites.
 
 ---
 
-## I've Experience in: 
-![Build Status](https://img.shields.io/badge/Graphics%20Designer-10%20years-green) ![Build Status](https://img.shields.io/badge/HTML-4%20years-green) ![Build Status](https://img.shields.io/badge/CSS-4%20years-green) ![Build Status](https://img.shields.io/badge/Wordpress-5_years-orange) ![Build Status](https://img.shields.io/badge/SEO_Basic-3%20years-blue) 
+## 🚀 Core Skills
 
-### I continue learning and I've Knowledge in.
-![Build Status](https://img.shields.io/badge/React_js-2%20years-blue) ![Build Status](https://img.shields.io/badge/JavaScript-2%20years-blue) 
+![Graphics Designer](https://img.shields.io/badge/Graphics%20Designer-15%20years-gold) ![HTML](https://img.shields.io/badge/HTML-9%20years-orange) ![CSS](https://img.shields.io/badge/CSS-9%20years-blue) ![WordPress](https://img.shields.io/badge/WordPress-9%20years-21759B) ![Technical%20SEO](https://img.shields.io/badge/Technical%20SEO-9%20years-green)
+
+## 💻 Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-7%20years-F7DF1E?labelColor=black) ![PHP](https://img.shields.io/badge/PHP-3%20years-777BB4) ![React.js](https://img.shields.io/badge/React.js-2%20years-61DAFB?labelColor=black)
 
 ---
-## Contact
-you can contact me in  my social network. 
 
--[Behance](https://www.behance.net/mdesigner_co "Portfolio mdesigner")
--[Linkedin](https://www.linkedin.com/in/jmcgraphics/ "Linkedin mdesigner")
--[Instagram](https://www.instagram.com/mdesigner_co/ "Instagram mdesigner")
+## 🛠️ What I Do
 
-or You can send me a **E-mail**:
-<hello@mdesigner.co>
+- 🎨 **Brand & Graphic Design** — Logo, identity systems, visual communication
+- 🌐 **Web Development** — WordPress, custom themes & plugins (PHP + JS)
+- ⚡ **Technical SEO** — Audits, Core Web Vitals, structured data, performance
+- 🔧 **Frontend** — HTML, CSS, JavaScript, React.js
+- 📊 **Analytics** — Google Analytics, Tag Manager, Search Console
 
+---
 
-- 💬 Ask me about ...
-<!--
-**mdesignerco/mdesignerco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects
 
-Here are some ideas to get you started:
+> Check my pinned repositories below for real-world examples of my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact
+
+Find me on my social networks:
+
+- [Behance](https://www.behance.net/mdesigner_co "Portfolio mdesigner") — Design Portfolio
+- [LinkedIn](https://www.linkedin.com/in/jmcgraphics/ "Linkedin mdesigner") — Professional Profile
+- [Instagram](https://www.instagram.com/mdesigner_co/ "Instagram mdesigner") — Creative Work
+- 🌐 [mdesigner.co](https://mdesigner.co)
+
+📧 **E-mail:** <hello@mdesigner.co>
+
+---
+
+*Open to freelance projects, collaborations and consulting.*
